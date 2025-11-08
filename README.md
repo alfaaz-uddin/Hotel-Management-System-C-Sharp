@@ -103,6 +103,3 @@ Under MIT License.
 ## Contact
 
 Maintainer: alfaaz-uddin (GitHub)
-For direct coordination or to request that I push this README into the repo and assign an agent to help further, tell me:
-- whether to push directly to the `main` branch or create a new branch and open a pull request, and
-- the agent name to assign (default: @copilot).
