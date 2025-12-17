@@ -1,0 +1,62 @@
+## Build outputs
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+## Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+*.pidb
+
+## NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Rider / ReSharper
+.idea/
+*.DotSettings.user
+
+## Visual Studio Code
+.vscode/
+.history/
+
+## Logs
+*.log
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## Temporary files
+*.tmp
+*.temp
+~$*
+
+## Test results
+[Tt]est[Rr]esult*/
+[Ll]og*/
+*.coverage
+*.coveragexml
+
+## Others
+*.dbmdl
+*.vsp
+*.vspscc
+*.pdb
+*.opendb
+*.msscci
+*.DS_Store
